@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactMini_GithubFollow/static/css/main.980c564c.chunk.css",
+    "main.js": "/reactMini_GithubFollow/static/js/main.79d124b3.chunk.js",
+    "main.js.map": "/reactMini_GithubFollow/static/js/main.79d124b3.chunk.js.map",
+    "runtime-main.js": "/reactMini_GithubFollow/static/js/runtime-main.7dddfb1c.js",
+    "runtime-main.js.map": "/reactMini_GithubFollow/static/js/runtime-main.7dddfb1c.js.map",
+    "static/js/2.b79bb511.chunk.js": "/reactMini_GithubFollow/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/reactMini_GithubFollow/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/reactMini_GithubFollow/index.html",
+    "precache-manifest.f9ecd8f33b70d409a7fcd9005ea835c3.js": "/reactMini_GithubFollow/precache-manifest.f9ecd8f33b70d409a7fcd9005ea835c3.js",
+    "service-worker.js": "/reactMini_GithubFollow/service-worker.js",
+    "static/css/main.980c564c.chunk.css.map": "/reactMini_GithubFollow/static/css/main.980c564c.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/reactMini_GithubFollow/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dddfb1c.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.980c564c.chunk.css",
+    "static/js/main.79d124b3.chunk.js"
+  ]
+}
